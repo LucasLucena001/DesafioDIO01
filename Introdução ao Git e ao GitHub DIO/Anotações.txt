@@ -1,0 +1,2 @@
+Dowload do Git: https://git-scm.com/download/win
+Git Bash é uma ferramenta para otimização do Git
