@@ -1,2 +1,8 @@
 Dowload do Git: https://git-scm.com/download/win
 Git Bash é uma ferramenta para otimização do Git
+Git : Repositorio Local 
+GitHub : Repositorio Remoto.
+
+Importante estar sempre atualizando tanto o Git, como GitHub. 
+- Controle de Versões.
+- Portfolio Profissional.

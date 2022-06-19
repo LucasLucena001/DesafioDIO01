@@ -1,0 +1,8 @@
+3 Pilares do Pensamento Computaciona: Abstração, Padrões e Decomposição.
+Introdução a Programação!
+Tecnicas p/ Programação.
+Estruturas:
+      - Condicional
+      - Repetição
+      - Vetores e Matrizes
+- Entrada / Saida.
