@@ -1,0 +1,66 @@
+AULA 01
+
+
+PRIMEIRO DOMINIO CRIADO
+- symbolics.com - Fabricante de computadores.
+PRIMEIRO BLOG
+- Criado por um brasileiro em 1994, chamado "Open Diary".
+PRIMEIRA COMPRA FEITA PELA INTERNET
+- Primeiro produto a ser vendido foi um CD do cantor Sting, em 11 de agosto de 1994
+SITE MAIS ANTIGO EM ATIVIDADE
+- Em 1º de janeiro de 1985, a NORDUnet, uma espécie de agência internacional que conecta as redes nacionais de pesquisa e de educação dos países nórdicos, criou o nordu.net.
+
+AULA 02
+
+HTML - Linguagem de Marcação! Não Linguagem de Progamação
+Keylogger - Virus que grava tudo que voce digita na sua maquina.
+phishing - Virus que tenta enganar o usuario de alguma forma. EX : Email falso para pagamento de divida, Ligações falsas.
+cookies - Dados que os sites armazenam para auxiliar algoritmos a conhecer o usuario.
+click bait - links para o usuario clicar com algum objetivo. Ex : Virus, Lucro.
+pop-up - caixas de mensagens em sites.
+
+AULA 05
+
+REDES
+BACKBONE- Espinha dorsal entre computadores.
+Provedores de Acessos - Empresa telefonica que contrata os serviços dos BlackBones pelo mundo para fornecer outros serviços para seus contratantes (Fibra Otica, Satelite).
+DNS - Transforma as informações para os computadores em IP.
+
+AULA 07
+
+UDP
+- Forma de conexão rapida,mas não é confiavel. Não confirma o recebimento de nada, então pode ser perdido dados no caminho sem aviso nenhum.
+- Carro do ovo (Dispara a informação para todo mundo, de forma desordenada. Falhas na comunicação)
+- Serve para as Livestream, pois ser mais rapidos.
+TCP
+- Foco na conexão
+- Mais lento
+- Aplicativo de Mensagem
+- Confirmação de recebimento de dados.
+- Ordem de envio de dados.
+
+AULA 08
+
+Portas
+-  De onde os dados saem e para onde vão.
+
+Aula 09
+
+Modem - Hardware que converte os dados enviados por um computador em um formato especifico para outro ler.
+Roteador - Transimite internet para outros dispositivos.Pode ser "burro" (Transmite os dados que chegam para todos os dispositos de forma desnecessaria)
+Switch - Criado para ser um "roteador inteligente". (Hoje os roteadores ja são inteligentes)
+
+Aula 10
+
+- Operadoras  gastam nada com a troca de sms, pois o celular já troca alguns bits com as torres de comunicação, e o sms vai de carona.
+
+
+
+
+
+
+
+
+
+
+
