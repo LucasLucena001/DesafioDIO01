@@ -54,7 +54,17 @@ Aula 10
 
 - Operadoras  gastam nada com a troca de sms, pois o celular já troca alguns bits com as torres de comunicação, e o sms vai de carona.
 
-
+Browser (Navegador)
+- Programa que interprete as linguagens de programação e transforme em algo compreensivel para os seres humanos.
+ 
+WEB-server
+-Armazenados dados;
+- Fisico ou Dinamico
+ 
+STACKS 
+- Pilhas de tecnologia - Conjunto de softwares necessarios e suficientes para executar um aplicativo.
+- Todo o ambiente tecnologico (Ferramentas).
+- Determinam os pontos fortes e fracos do projeto.
 
 
 
