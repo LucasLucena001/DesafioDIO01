@@ -66,6 +66,16 @@ STACKS
 - Todo o ambiente tecnologico (Ferramentas).
 - Determinam os pontos fortes e fracos do projeto.
 
+	LPs
+Termos 
+- 404 : Pagina não existe;
+- Alt : Texto em imagens no site;
+- Design responsivo : Adaptavel a todos os formatos de tela;
+- DPI : Proporção de pontos na tela(pixels);
+- Framework : "Caixa de ferramentas" para construção de software;
+- Meta tags : Funções no site;
+- Metodos Ageis: Desenvolvimento mais rapido e eficiente de softwares;
+- SSL : Camada de segurança no site.
 
 
 
